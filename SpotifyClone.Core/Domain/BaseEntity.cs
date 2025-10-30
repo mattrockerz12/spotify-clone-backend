@@ -1,4 +1,6 @@
-﻿using System.Collections.ObjectModel;
+﻿using SpotifyClone.Core.Domain.Contracts;
+using SpotifyClone.Core.Domain.Events;
+using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations.Schema;
 
 

@@ -1,4 +1,6 @@
-﻿namespace SpotifyClone.Core.Domain;
+﻿using SpotifyClone.Core.Domain.Contracts;
+
+namespace SpotifyClone.Core.Domain;
 
 public class AuditableEntity<TId> : BaseEntity<TId>, IAuditable, ISoftDeletable
 {

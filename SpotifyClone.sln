@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyClone.Core", "Spotif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyClone.Infrastructure", "SpotifyClone.Infrastructure\SpotifyClone.Infrastructure.csproj", "{E2BFF16D-5901-451A-9942-291AE1F3F929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyClone.Shared", "SpotifyClone.Shared\SpotifyClone.Shared.csproj", "{0EC63A38-CE9F-427D-9189-A8136E80A2A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E2BFF16D-5901-451A-9942-291AE1F3F929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2BFF16D-5901-451A-9942-291AE1F3F929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2BFF16D-5901-451A-9942-291AE1F3F929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC63A38-CE9F-427D-9189-A8136E80A2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC63A38-CE9F-427D-9189-A8136E80A2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC63A38-CE9F-427D-9189-A8136E80A2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC63A38-CE9F-427D-9189-A8136E80A2A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
